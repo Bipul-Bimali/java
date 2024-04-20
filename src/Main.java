@@ -90,7 +90,7 @@ public static double ORDDET(double[] price,int itemno,Scanner scan ){
 }
 //    THis is the main looping function
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);//THis is not uderstood by me
+        Scanner scan = new Scanner(System.in);
         try {
             System.out.println("Bipul's BurgerStop\n");
             start();
